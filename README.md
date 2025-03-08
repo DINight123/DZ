@@ -4,7 +4,7 @@
 Git add
 
 Для добавления изменений в коммит используется команда `git add` и имя
-![gitAdd](photos/image.PNG)
+![gitAdd](photos/image.png)
 
 
 ## Отправить коммит
