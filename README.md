@@ -4,7 +4,7 @@
 Git add
 
 Для добавления изменений в коммит используется команда `git add` и имя
-![gitAdd](photos/image.png)
+![gitAdd](photos/image.PNG)
 
 
 ## Отправить коммит
@@ -17,12 +17,12 @@ git commit -m "your_message"
 >
 >"your_message" - комментарий (в кавычках)
 
-![gitCommit](photos/commit.png)
+![gitCommit](photos/commit.PNG)
 
 ## Посмотреть список коммитов
 * `git log` - стандартный вид
 * `git log --graph` - вид с графическим отображением веток
-![gitLog](photos/log.png)
+![gitLog](photos/log.PNG)
 !
 
 
@@ -31,12 +31,12 @@ git commit -m "your_message"
 * ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению 
 * ```git checkout master``` - перейти к изменению последнего коммита 
 ## Посмотреть есть ли не сохранненные изменения репозитория (файлов)
-![gitCheckout](photos/checkout.png)
+![gitCheckout](photos/checkout.PNG)
 * ```get status```
-![gitStatus](photos/status.png)
+![gitStatus](photos/status.PNG)
 
 ## Работа с ветками
-* ```git branch``` - посмотреть список веток ![gitBranch](photos/branch.png)
+* ```git branch``` - посмотреть список веток ![gitBranch](photos/branch.PNG)
 * ```git branch <название ветки>``` - создать ветку (новая ветка унаследует коммиты родительской ветки) 
 * ```git checkout <название ветки>``` - перейти на ветку 
 * ```git branch -d <название ветки>``` - удалить ветку после merge 
