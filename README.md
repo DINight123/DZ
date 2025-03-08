@@ -24,8 +24,8 @@ git commit -m "your_message"
 
 ## Перейти к сохранению
  ```git checkout```
-* ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению ![gitCheckout](photos/gitChechout.png)
-* ```git checkout master``` - перейти к изменению последнего коммита ![gitCheckoutMaster](photos/gtiCheckoutMaster.png)
+* ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению 
+* ```git checkout master``` - перейти к изменению последнего коммита 
 ## Посмотреть есть ли не сохранненные изменения репозитория (файлов)
 * ```get status```
 
@@ -35,6 +35,5 @@ git commit -m "your_message"
 * ```git checkout <название ветки>``` - перейти на ветку 
 * ```git branch -d <название ветки>``` - удалить ветку после merge 
 * ```git branch -D <название ветки>``` - удалить ветку принудительно 
-* ```git merge <название сливаемой ветки>``` - сливание веток hd.png)
-* ```git branch -D <название ветки>``` - удалить ветку принудительно ![gitBranchD](photos/gitBranchD.png)
-* ```git merge <название сливаемой ветки>``` - сливание веток ![gitMerge](photos/gitMerge.png)
+* ```git merge <название сливаемой ветки>``` - сливание веток 
+
