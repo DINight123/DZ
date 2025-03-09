@@ -42,3 +42,6 @@ git commit -m "your_message"
 * ```git branch -d <название ветки>``` - удалить ветку после merge ![gitBranch](photos/branch3.PNG)
 * ```git branch -D <название ветки>``` - удалить ветку принудительно ![gitBranch](photos/branch4.PNG)
 
+CONFLICT:
+
+![gitBranch](photos/conflict.PNG)
